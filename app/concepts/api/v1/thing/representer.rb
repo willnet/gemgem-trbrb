@@ -1,3 +1,5 @@
+require_dependency 'api/v1/comment/representer'
+
 module API::V1
   module Thing
     module Representer
